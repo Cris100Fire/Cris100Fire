@@ -40,7 +40,7 @@ This is my space where I share my journey in web development, learning both fron
 ---
 
 ## 📫 Contact me
-If you have questions, suggestions, or just want to chat about web development or blockchain, don't hesitate to get in touch with me through:
+If you have questions, suggestions, or just want to chat about web development, don't hesitate to get in touch with me through:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cienfuegoscfc@gmail.com)
 <!--
